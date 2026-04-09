@@ -7,7 +7,7 @@
     <tr>
       <td width="160" align="center" valign="middle">
         <img src="https://api.dicebear.com/9.x/bottts/svg?flip=true&backgroundType=gradientLinear&baseColor=00acc1&backgroundColor=transparent&seed=Jade" width="130" /><br/>
-        <img src="https://img.shields.io/badge/AUTH_FOUNDER-00f2fe?style=flat-square" />
+        <img src="https://img.shields.io/badge/AUTH_FOUNDER-000000?style=flat-square" />
       </td>
       <td width="480" valign="middle">
         <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1000&pause=200&color=00f2fe&width=480&height=80&multiline=true&lines=%3E%3E_EXECUTING_AUTOBOTICS_CORE;%3E%3E_SYNTHESIZING_UI_UX_FLOWS;%3E%3E_AI_AGENTS_DEPLOYED;%3E%3E_PROTOCOL:_OVERDRIVE" />
