@@ -1,5 +1,11 @@
 <p align="center">
-<a href="https://github.com/LeoSimonn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&multiline=true&width=700&height=120&lines=Leonardo+Monteiro;UI%2FUX+%E2%8A%81+AI+Automation+%E2%8A%81+Founder;Autobotics+%7C+Apple+Developer+Academy" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Leonardo%20Monteiro&fontSize=48&fontColor=00f2fe&fontAlignY=38&desc=UI/UX%20%E2%8A%81%20AI%20Automation%20%E2%8A%81%20Founder&descAlignY=60&descSize=20&descColor=8b949e&animation=twinkling" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/LeoSimonn">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=1200&pause=400&color=00f2fe&center=true&vCenter=true&width=700&height=40&lines=%3E_Autobotics+%7C+Apple+Developer+Academy;%3E_Transforming+ideas+into+UI%2FUX;%3E_Automating+the+future+with+AI" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
