@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=120&section=header&text=FOUNDER%20%E2%8A%81%20DESIGNER%20%E2%8A%81%20BUILDER&fontSize=32&fontColor=00f2fe&fontAlignY=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=%5B+SYSTEM+INITIALIZED+%5D&fontSize=32&fontColor=00f2fe&fontAlignY=45&animation=glitch" width="100%" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td width="300" align="center" valign="top">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=500&color=00f2fe&center=true&vCenter=true&width=300&height=40&lines=%3E_status:+building;" alt="System Status" /><br/>
-        <img src="https://img.shields.io/badge/AI_CORE-ACTIVE-00f2fe?style=flat-square" />
-        <img src="https://img.shields.io/badge/UX_ENGINE-OPTIMIZED-A200FF?style=flat-square" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1000&pause=500&color=00f2fe&center=true&vCenter=true&width=300&height=40&lines=%3E_NEURAL_LINK:+SYNCED;" alt="Neural Link" /><br/>
+        <img src="https://img.shields.io/badge/ROBOTIC_CORE-ACTIVE-00f2fe?style=flat-square&logo=probot" />
+        <img src="https://img.shields.io/badge/INTERFACE_UX-CALIBRATED-A200FF?style=flat-square" />
       </td>
       <td width="400" align="center" valign="top">
-        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=2000&pause=800&color=8b949e&center=true&vCenter=true&width=400&height=80&lines=%5BPROCESS%5D+Scaling+Autobotics...;%5BPROCESS%5D+Refining+iOS+Patterns...;%5BPROCESS%5D+Automating+Workflows...;%5BPROCESS%5D+Designing+the+Future...;" alt="Log" />
+        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=1500&pause=500&color=8b949e&center=true&vCenter=true&width=400&height=80&lines=%E2%96%92+DEPLOYING+AI+AGENTS...;%E2%96%92+OPTIMIZING+COGNITIVE_UX...;%E2%96%92+FOUNDER_MODE:+OVERDRIVE;%E2%96%92+EXECUTING+AUTOBOTICS_V2...;" alt="Log" />
       </td>
     </tr>
   </table>
