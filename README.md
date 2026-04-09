@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://leonardomonteiro.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=65D8E6" alt="Portfolio" /></a>
+<a href="https://leosimonn.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=65D8E6" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/leonardosimon"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://wa.me/5551993491445"><img src="https://img.shields.io/badge/📱_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="https://www.instagram.com/leonardosimon_/"><img src="https://img.shields.io/badge/📷_Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
