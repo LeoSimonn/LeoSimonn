@@ -3,8 +3,10 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=1000&pause=200&color=00f2fe&center=true&vCenter=true&width=600&height=100&multiline=true&lines=%3E%3E_EXECUTING_AUTOBOTICS_CORE;%3E%3E_SYNTHESIZING_UI_UX_FLOWS;%3E%3E_AI_AGENTS_DEPLOYED;%3E%3E_PROTOCOL:_OVERDRIVE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1000&pause=200&color=00f2fe&center=true&vCenter=true&width=600&height=140&multiline=true&lines=%3E%3E_EXECUTING_AUTOBOTICS_CORE;%3E%3E_SYNTHESIZING_UI_UX_FLOWS;%3E%3E_AI_AGENTS_DEPLOYED;%3E%3E_PROTOCOL:_OVERDRIVE" />
 </div>
+
+<br />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=00f2fe&center=true&vCenter=true&width=700&height=20&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+BOOTING_SYS;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%5D+UX_SYNC;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+AI_READY" />
