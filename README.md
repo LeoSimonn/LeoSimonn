@@ -19,16 +19,6 @@ Entrepreneur and designer building products where **UI/UX meets AI**. Currently 
 
 ---
 
-## 🚀 What I Bring
-
-| Pillar | Impact | Tools |
-|:---|:---|:---|
-| **Design** | 5 iOS apps end-to-end | Figma · SwiftUI · Design Systems |
-| **AI** | 80+ h/mo saved for clients | n8n · LLMs · Chatbots |
-| **Ship** | 6+ products → live | React · Vue · Swift · Python |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -41,18 +31,6 @@ Entrepreneur and designer building products where **UI/UX meets AI**. Currently 
 
 **Backend & Automation**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoSimonn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoSimonn&theme=tokyonight&hide_border=true&background=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSimonn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 </div>
 
