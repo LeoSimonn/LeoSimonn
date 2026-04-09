@@ -1,12 +1,21 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Leonardo%20Monteiro&fontSize=48&fontColor=00f2fe&fontAlignY=38&desc=UI/UX%20%E2%8A%81%20AI%20Automation%20%E2%8A%81%20Founder&descAlignY=60&descSize=20&descColor=8b949e&animation=twinkling" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=120&section=header&text=FOUNDER%20%E2%8A%81%20DESIGNER%20%E2%8A%81%20BUILDER&fontSize=32&fontColor=00f2fe&fontAlignY=50&animation=fadeIn" width="100%" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/LeoSimonn">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=1200&pause=400&color=00f2fe&center=true&vCenter=true&width=700&height=40&lines=%3E_Autobotics+%7C+Apple+Developer+Academy;%3E_Transforming+ideas+into+UI%2FUX;%3E_Automating+the+future+with+AI" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="300" align="center" valign="top">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=500&color=00f2fe&center=true&vCenter=true&width=300&height=40&lines=%3E_status:+building;" alt="System Status" /><br/>
+        <img src="https://img.shields.io/badge/AI_CORE-ACTIVE-00f2fe?style=flat-square" />
+        <img src="https://img.shields.io/badge/UX_ENGINE-OPTIMIZED-A200FF?style=flat-square" />
+      </td>
+      <td width="400" align="center" valign="top">
+        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=2000&pause=800&color=8b949e&center=true&vCenter=true&width=400&height=80&lines=%5BPROCESS%5D+Scaling+Autobotics...;%5BPROCESS%5D+Refining+iOS+Patterns...;%5BPROCESS%5D+Automating+Workflows...;%5BPROCESS%5D+Designing+the+Future...;" alt="Log" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
 <a href="https://leonardomonteiro.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=65D8E6" alt="Portfolio" /></a>
