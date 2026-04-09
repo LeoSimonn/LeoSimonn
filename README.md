@@ -1,21 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=%5B+SYSTEM+INITIALIZED+%5D&fontSize=32&fontColor=00f2fe&fontAlignY=45&animation=glitch" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f2fe&text=%E2%8E%A2%20NEURAL%20CORE%20v2.0%20%E2%8E%A2&height=150&section=header&fontSize=45&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td width="300" align="center" valign="top">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1000&pause=500&color=00f2fe&center=true&vCenter=true&width=300&height=40&lines=%3E_NEURAL_LINK:+SYNCED;" alt="Neural Link" /><br/>
-        <img src="https://img.shields.io/badge/ROBOTIC_CORE-ACTIVE-00f2fe?style=flat-square&logo=probot" />
-        <img src="https://img.shields.io/badge/INTERFACE_UX-CALIBRATED-A200FF?style=flat-square" />
+      <td width="200" align="center" valign="middle">
+        <img src="https://robohash.org/LeoSimonn.png?set=set1&size=150x150" width="130" /><br/>
+        <img src="https://img.shields.io/badge/%5B_FOUNDER_IDENTITY_%5D-00f2fe?style=flat-square" />
       </td>
-      <td width="400" align="center" valign="top">
-        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=1500&pause=500&color=8b949e&center=true&vCenter=true&width=400&height=80&lines=%E2%96%92+DEPLOYING+AI+AGENTS...;%E2%96%92+OPTIMIZING+COGNITIVE_UX...;%E2%96%92+FOUNDER_MODE:+OVERDRIVE;%E2%96%92+EXECUTING+AUTOBOTICS_V2...;" alt="Log" />
+      <td width="500" valign="middle">
+        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=19&duration=1000&pause=200&color=00f2fe&width=500&height=120&multiline=true&lines=%3E%3E_ACCESSING_AUTOBOTICS_PROTOCOLS;%3E%3E_ANALYZING_UI_UX_PATTERNS;%3E%3E_SYNCING_AI_AUTOMATION_AGENTS;%3E%3E_LOADING_APPLE_ACADEMY_DATA;%3E%3E_SYSTEM_STATUS:_MAX_PERFORMANCE" />
       </td>
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&color=00f2fe&center=true&vCenter=true&width=700&height=30&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+65%25+BOOTING+FOUNDER_CORE;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%5D+95%25+OPTIMIZING+UX_ENGINE;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25+AI_SYNC_COMPLETE" />
+</p>
 
 <p align="center">
 <a href="https://leonardomonteiro.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=65D8E6" alt="Portfolio" /></a>
