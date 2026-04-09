@@ -6,7 +6,7 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="160" align="center" valign="middle">
-        <img src="https://api.dicebear.com/9.x/bottts/svg?flip=true&backgroundType=gradientLinear&baseColor=039be5&backgroundColor=transparent&seed=Jade" width="130" /><br/>
+        <img src="https://api.dicebear.com/9.x/bottts/svg?flip=true&backgroundType=gradientLinear&baseColor=00acc1&backgroundColor=transparent&seed=Jade" width="130" /><br/>
         <img src="https://img.shields.io/badge/AUTH_FOUNDER-00f2fe?style=flat-square" />
       </td>
       <td width="480" valign="middle">
