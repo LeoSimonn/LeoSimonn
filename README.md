@@ -1,65 +1,177 @@
-<h1 align="center">Leonardo Monteiro</h1>
-<p align="center">UI/UX Designer · AI Automation · Founder at <a href="https://autobotics.com.br">Autobotics</a></p>
 
-<p align="center">
-  <a href="https://leonardomonteiro.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=65D8E6" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/leonardosimon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://wa.me/5551993491445"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
 
----
 
-### About
 
-I build products at the intersection of **design, AI, and automation**. Currently a UI/UX Designer Intern at the **Apple Developer Academy** (PUCRS/TECNOPUC) and founder of **Autobotics**, an AI automation consultancy.
+  
 
-My focus: products with purpose, usability, and performance — transforming businesses into memorable experiences.
 
----
+**Building products where design meets intelligent automation.**
 
-### What I Do
+  
+  
 
-| | |
-|---|---|
-| **Product Design** | End-to-end UI/UX — research, prototyping, design systems, usability testing |
-| **AI & Automation** | LLM integration, workflow automation (n8n, Make), chatbots — saving clients 80+ hours/month |
-| **Web & Mobile** | React, Vue.js, Swift/SwiftUI, Python — from MVP to production |
-| **Strategy** | Technical strategy, product roadmaps, rapid low-code prototyping |
+
+
+
+
+
+
+  
+  
+
+
+  
+
+
 
 ---
 
-### Featured Projects
+## Passion
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [InsightUp](https://github.com/LeoSimonn) | Swift, SwiftUI, AI | Solo build at Apple Academy — capture ideas, get AI-backed feasibility analysis |
-| [Clairfy](https://github.com/LeoSimonn) | Swift, SwiftUI | Health app — visit audio recording, AI summaries, dual language (PO & UI/UX) |
-| [Bolsofy](https://github.com/LeoSimonn) | Vue.js, Firebase | Personal finance platform — budget tracking and financial insights |
-| [PowerNutri Evolution](https://github.com/LeoSimonn) | React, Supabase | Nutrition management — from WhatsApp-era automation to full web app |
+Three things drive everything I build:
 
----
+> **Design** — I grew up in a family immersed in visual creation. From CorelDraw and Photoshop as a kid to Figma and design systems today. UI/UX isn't just what I do — it's how I see the world.
 
-### Tech Stack
+> **AI & Automation** — I don't just use AI. I build with it. LLMs, n8n workflows, intelligent chatbots. The goal is always the same: save time, create leverage, make systems smarter.
 
-**Design** — Figma · Design Systems · Prototyping · Usability Testing
-
-**Frontend** — React · Vue.js · Swift · SwiftUI · TypeScript · HTML/CSS
-
-**Backend & Automation** — Python · n8n · Make · Supabase · Firebase · Manychat
-
-**3D & Creative** — SketchUp · Enscape · CorelDraw · Photoshop
+> **Entrepreneurship** — I've shipped 6+ digital products. Not because someone told me to, but because I can't stop building. Bolsofy, PowerNutri, Autobotics — each one started as a problem I wanted to solve.
 
 ---
 
-### Stats
+## What I Do
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeoSimonn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSimonn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
+|     |
+| --- |
+|     |
+
+
+**UI/UX Design**
+
+- UX Research & Strategy
+- UI Design & Prototyping
+- Design Systems
+- Usability Testing
+
+
+
+**AI & Automation**
+
+- LLM Integration
+- Workflow Automation (n8n, Make)
+- Chatbot Development
+- Data Pipelines
+
+
+
+**Web & Mobile**
+
+- React · Vue.js · Swift/SwiftUI
+- TypeScript · Python
+- API Development
+- Cloud Deployment
+
+
+
+**Strategy & Consulting**
+
+- Technical Strategy
+- Product Roadmap
+- MVP Development
+- 3D Visualization
+
+
 
 ---
 
-<p align="center">
-  <i>Products with purpose, usability, and performance.</i>
-</p>
+## Featured Projects
+
+
+|     |
+| --- |
+|     |
+
+
+### InsightUp
+
+> Solo build at Apple Academy — capture ideas, get AI-backed feasibility and next steps.
+
+`Swift` `SwiftUI` `AI` `iOS`
+
+
+
+### Clairfy
+
+> Health app — visit audio recording, AI summaries, two language levels. PO & UI/UX.
+
+`Swift` `SwiftUI` `HealthKit` `iOS`
+
+
+
+### Bolsofy
+
+> Personal finance platform — budget tracking, insights, and money management made intuitive.
+
+`Vue.js` `Firebase` `Charts`
+
+
+
+### PowerNutri Evolution
+
+> Nutrition management end-to-end. From WhatsApp-era roots to a full web app.
+
+`React` `Supabase` `n8n`
+
+
+
+---
+
+## Toolbox
+
+
+
+### Design
+
+Figma
+Sketch
+Framer
+
+### Frontend
+
+React
+Vue.js
+Swift
+TypeScript
+HTML5
+CSS3
+
+### Backend & Automation
+
+Python
+Node.js
+Supabase
+Firebase
+n8n
+
+### Tools
+
+Git
+VS Code
+Notion
+
+
+
+---
+
+## Currently
+
+- 🎓 UI/UX Designer Intern at **Apple Developer Academy** (PUCRS/TECNOPUC)
+- 🚀 Founder at **[Autobotics](https://autobotics.com.br)** — AI automation consultancy
+- 📱 Shipped **5 native iOS apps** and **2 SaaS products**
+- 💡 Saving clients **80+ hours/month** through intelligent automation
+- 🌱 Always learning — currently deep into **applied AI in product design**
+
+---
+
+*"Products with purpose, usability, and performance."*  
+  
