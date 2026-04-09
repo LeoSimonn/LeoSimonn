@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f2fe&text=%E2%9C%A7%20NEURAL%20INTERFACE%20%E2%9C%A7&height=120&section=header&fontSize=40&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00f2fe&text=%5B%20CORE_LINK_SYNCED%20%5D&height=100&section=header&fontSize=40&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="160" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/LeoSimonn/LeoSimonn/main/assets/avatar.svg" width="140" /><br/>
+        <img src="https://api.dicebear.com/9.x/bottts/svg?flip=true&backgroundType=gradientLinear&baseColor=039be5&backgroundColor=transparent&seed=Jade" width="130" /><br/>
         <img src="https://img.shields.io/badge/AUTH_FOUNDER-00f2fe?style=flat-square" />
       </td>
       <td width="480" valign="middle">
-        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1000&pause=200&color=00f2fe&width=480&height=100&multiline=true&lines=%3E%3E_INITIALIZING_AUTOBOTICS;%3E%3E_MAPPING_UI_UX_FLOWS;%3E%3E_AI_AGENTS_ONLINE;%3E%3E_STATUS:_OVERDRIVE" />
+        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1000&pause=200&color=00f2fe&width=480&height=80&multiline=true&lines=%3E%3E_EXECUTING_AUTOBOTICS_CORE;%3E%3E_SYNTHESIZING_UI_UX_FLOWS;%3E%3E_AI_AGENTS_DEPLOYED;%3E%3E_PROTOCOL:_OVERDRIVE" />
       </td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&color=00f2fe&center=true&vCenter=true&width=700&height=25&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+BOOTING_CORE;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%5D+SYNCING_UX;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+AI_READY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&color=00f2fe&center=true&vCenter=true&width=700&height=20&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+BOOTING_SYS;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%5D+UX_SYNC;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+AI_READY" />
 </p>
 
 <p align="center">
