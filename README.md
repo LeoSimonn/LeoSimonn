@@ -3,21 +3,11 @@
 </div>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="160" align="center" valign="middle">
-        <img src="https://api.dicebear.com/9.x/bottts/svg?flip=true&backgroundType=gradientLinear&baseColor=00acc1&backgroundColor=transparent&seed=Jade" width="130" /><br/>
-        <img src="https://img.shields.io/badge/AUTH_FOUNDER-000000?style=flat-square" />
-      </td>
-      <td width="480" valign="middle">
-        <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=1000&pause=200&color=00f2fe&width=480&height=80&multiline=true&lines=%3E%3E_EXECUTING_AUTOBOTICS_CORE;%3E%3E_SYNTHESIZING_UI_UX_FLOWS;%3E%3E_AI_AGENTS_DEPLOYED;%3E%3E_PROTOCOL:_OVERDRIVE" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=1000&pause=200&color=00f2fe&center=true&vCenter=true&width=600&height=100&multiline=true&lines=%3E%3E_EXECUTING_AUTOBOTICS_CORE;%3E%3E_SYNTHESIZING_UI_UX_FLOWS;%3E%3E_AI_AGENTS_DEPLOYED;%3E%3E_PROTOCOL:_OVERDRIVE" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&color=00f2fe&center=true&vCenter=true&width=700&height=20&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+BOOTING_SYS;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%5D+UX_SYNC;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+AI_READY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=00f2fe&center=true&vCenter=true&width=700&height=20&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92%E2%96%92%E2%96%92%5D+BOOTING_SYS;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%5D+UX_SYNC;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+AI_READY" />
 </p>
 
 <p align="center">
